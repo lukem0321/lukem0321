@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukem0321
-- 👀 I’m interested in IOS development, Python, Rust, Web3, and Product management
-- 🌱 I’m currently worknng on IOS development
+- 👀 I’m interested in AI/ML, GitOps, Cloud Native, IOS development, Python, Rust, Web3, and Product Management
+- 🌱 I’m currently working on IOS development
 - 💞️ I’m looking to collaborate on app ideas
 - 📫 You can reach me on Twitter @lukem0321
 
